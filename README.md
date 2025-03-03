@@ -1,0 +1,3 @@
+# Recap of some veeery basic .js...
+
+### [Functions, methods, objects](./basics/basic_terminology.md)

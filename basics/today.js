@@ -19,4 +19,4 @@ function startIfTeacherOk(teacher) {
     return student;
 }
 
-console.log(student.name,', ', startIfTeacherOk("not ok")); // "startCourse" oder "oder vielleicht doch Laub fegen?"
+console.log(student.name,', ', startIfTeacherOk("not ok"));
